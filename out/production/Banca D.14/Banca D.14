@@ -1,0 +1,5 @@
+14. Retragerile de bani de la bancomat se fac după următorii pași: se introduce cardul, se introduce
+pinul, se specifica suma solicitata, se retrag banii din bancomat și la final se retrage cardul. Sa se
+implementeze modulul care realizează acest algoritm.
+
+Vom folosi Design Pattern-ul Template.
